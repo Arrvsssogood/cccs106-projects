@@ -29,7 +29,7 @@ Academic Year 2025-2026
 - **VS Code** - Integrated development environment
 
 ## Development Environment
-- **Virtual Environment:** cccs106_env
+- **Virtual Environment:** cccs106_env_palacios
 - **Python Packages:** flet==0.28.3
 - **Platform:** Windows 10/11
 
