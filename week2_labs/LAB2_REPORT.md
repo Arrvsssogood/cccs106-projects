@@ -56,16 +56,26 @@ I learned a lot about Flet and how easy it is to implement and adjust. It was su
 One of the biggest takeaways is how version control makes collaborating with others much easier. With GitHub, I can work with teammates, track changes, and merge code without worrying about conflicts. It really highlighted how important these tools are for smooth and efficient teamwork.
 
 ## Screenshots
-Successful pushes:\
+Github Repository:\
+![alt text](lab2_screenshots/github_repo.png)
+
+Local Commits:\
 ![alt text](lab2_screenshots/git.png)
+
+
+Github Commits:\
+![alt text](lab2_screenshots/github_commits.png)
+
+Successful Pushes:\
+![alt text](lab2_screenshots/success_push.png)
 
 Hello Flet:
 ![alt text](lab2_screenshots/hello_flet_output.png)
 
 Personal Information UI:\
 ![alt text](lab2_screenshots/personal_info_gui_output2.png.png)
-
 ![alt text](lab2_screenshots/personal_info_gui_output1.png)
+
 
 ### Git Repository
 - [ ] GitHub repository with commit history
